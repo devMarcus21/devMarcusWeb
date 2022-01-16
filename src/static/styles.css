@@ -1,0 +1,47 @@
+.header {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    height:10vh;
+}
+
+.me {
+    width: 70%;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.name {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+}
+
+.description {
+    justify-content: center;
+    text-align: center;
+}
+
+.contact {
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    justify-content: center;
+    text-align: center;
+}
+
+.aboutHead {
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+.about {
+    justify-content: center;
+    text-align: center;
+    border: 3px solid green;
+}
